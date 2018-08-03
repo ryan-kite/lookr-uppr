@@ -1,5 +1,7 @@
 # lookr-uppr
 
+A Simple reverse phone lookup app, using vue and whitepages pro API.
+
 ## Project setup
 ```
 npm install
