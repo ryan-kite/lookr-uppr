@@ -1,5 +1,9 @@
 <template>
-  <div id="lookr-uppr">
+  <transition
+      name="custom-classes-transition3"
+      enter-active-class="animated flipInY"
+      leave-active-class="animated slideOutDown">
+  <div id="lookr-uppr" v-show="isToDoLoaded">
     <!-- loader -->
     <div class="loading" v-show="isLoading">  
       <div class="spinner">
@@ -192,6 +196,7 @@
       </div>
     </div>
  </div>
+</transition>
 </template>
 
 <script>
@@ -204,6 +209,7 @@ export default {
   },
   data () {
     return {
+      isToDoLoaded: false,
       isResult: false,
       isLoading: false,
       phonePayload: '',
@@ -309,6 +315,10 @@ export default {
         app.isLoading = false
       })
     }
+  },
+  mounted: function () {
+    var app = this
+    setTimeout(function(){ app.isToDoLoaded = true }, 2000)
   }
 }
 </script>
