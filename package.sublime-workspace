@@ -1,0 +1,710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-variant\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"border-tio",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"border-left",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"lat",
+				"lat_long"
+			],
+			[
+				"a",
+				"axios"
+			],
+			[
+				"data",
+				"dataResponse"
+			],
+			[
+				"is",
+				"isResults"
+			],
+			[
+				"remove",
+				"removeZeroAndOnes"
+			],
+			[
+				"rule",
+				"ruleForm"
+			],
+			[
+				"dirty",
+				"dirtyNumberProp"
+			],
+			[
+				"dig",
+				"digitLength"
+			],
+			[
+				"c",
+				"cleanNumber1"
+			],
+			[
+				"clean",
+				"cleanNumber2"
+			],
+			[
+				"check",
+				"checkForTen"
+			],
+			[
+				"di",
+				"dirtyNumber"
+			],
+			[
+				"ph",
+				"phoneData"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"log",
+				"logit"
+			],
+			[
+				"val",
+				"value01"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"has",
+				"has-error"
+			],
+			[
+				"rand",
+				"randomId"
+			],
+			[
+				"ra",
+				"randomId"
+			],
+			[
+				"sw",
+				"switchCharacter"
+			],
+			[
+				"fet",
+				"fetchCharacter"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"alert",
+				"alertTime"
+			],
+			[
+				"comp",
+				"computed"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"active",
+				"activeState"
+			],
+			[
+				"stock",
+				"stockPortfolio"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"place",
+				"placeSellOrder"
+			],
+			[
+				"st",
+				"stockId"
+			],
+			[
+				"stoc",
+				"stockPrice"
+			],
+			[
+				"s",
+				"stockId"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"sch",
+				"schedule"
+			],
+			[
+				"sc",
+				"scheduled"
+			],
+			[
+				"panel",
+				"panel-footer"
+			],
+			[
+				"con",
+				"continuous-backups"
+			],
+			[
+				"sched",
+				"scheduled-backups"
+			],
+			[
+				"ibox-",
+				"ibox-content"
+			],
+			[
+				"ibox",
+				"ibox-content"
+			],
+			[
+				"col-md",
+				"col-md-2"
+			],
+			[
+				"p",
+				"p-sm"
+			],
+			[
+				"Memory",
+				"Memory_MB"
+			],
+			[
+				"header",
+				"header-info"
+			],
+			[
+				"logo",
+				"logo-path"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"m-b",
+				"m-b-lg"
+			],
+			[
+				"reg",
+				"reg-fqdn"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"i",
+				"ibox-content"
+			],
+			[
+				"ibo",
+				"ibox-content"
+			],
+			[
+				"days",
+				"Days"
+			],
+			[
+				"tabel",
+				"table-cell"
+			],
+			[
+				"clr",
+				"clear"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"ib",
+				"ibox-content"
+			],
+			[
+				"code",
+				"codemirror-textarea"
+			],
+			[
+				"save-",
+				"save-bottom"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"se",
+				"set-compression-level"
+			],
+			[
+				"set-",
+				"set-days-for-logs"
+			],
+			[
+				"touch",
+				"touchHrDelay"
+			],
+			[
+				"touchMin",
+				"touchMinDelay"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"help1",
+				"help1_specified"
+			],
+			[
+				"build",
+				"build_file"
+			],
+			[
+				"mod",
+				"modify-installer"
+			],
+			[
+				"brand",
+				"brandList"
+			],
+			[
+				"block",
+				"blockquote\tTag"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"Sign",
+				"SignUp"
+			],
+			[
+				"Full",
+				"full_name"
+			],
+			[
+				"form_",
+				"form_full_name"
+			],
+			[
+				"h",
+				"hsla()"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"submit",
+				"submitButton"
+			],
+			[
+				"search",
+				"searchField"
+			],
+			[
+				"rooms",
+				"roomsHTML"
+			],
+			[
+				"room",
+				"roomsHTML"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"connection",
+				"connections-graph"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"cour",
+				"courses"
+			],
+			[
+				"course",
+				"course_list"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"cd ..",
+			"cd ",
+			"pwd",
+			"ls",
+			"open models.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryankite/Desktop/lookr-uppr/src/App.vue",
+		"/Users/ryankite/Desktop/lookr-uppr/src/components/LookrUppr.vue",
+		"/Users/ryankite/Desktop/lookr-uppr/public/index.html",
+		"/Users/ryankite/Desktop/lookr-uppr/src/main.js",
+		"/Users/ryankite/Desktop/lookr-uppr/.gitignore",
+		"/Users/ryankite/Desktop/lookr-uppr/README.md",
+		"/Users/ryankite/Desktop/lookr-uppr/src/config.js",
+		"/Users/ryankite/Desktop/lookr-uppr/vue.config.js",
+		"/Users/ryankite/Desktop/lookr-uppr/src/assets/styles.css",
+		"/Users/ryankite/Downloads/DigitalNinjaZCloudBU.build",
+		"/Users/ryankite/Desktop/lookr-uppr/package.json",
+		"/Users/ryankite/lookr-uppr/src/components/lookr.vue",
+		"/Users/ryankite/lookr-uppr/src/components/lookrUppr.vue",
+		"/Users/ryankite/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ryankite/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ryankite/admin-dash/.editorconfig",
+		"/Users/ryankite/admin-dash/src/router/index.js",
+		"/Users/ryankite/admin-dash/src/components/lookrUppr.vue",
+		"/Users/ryankite/admin-dash/src/components/phone_result.json",
+		"/Users/ryankite/admin-dash/src/App.vue",
+		"/Users/ryankite/admin-dash/.eslintrc.js",
+		"/Users/ryankite/admin-dash/.babelrc",
+		"/Users/ryankite/admin-dash/package.json",
+		"/Users/ryankite/admin-dash/src/main.js",
+		"/Users/ryankite/admin-dash/src/components/overview.vue",
+		"/Users/ryankite/vue/dashmon/src/components/Overview.vue",
+		"/Users/ryankite/vue/dashmon/src/components/HelloWorld.vue",
+		"/Users/ryankite/vue/dashmon/src/router/index.js",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/about_Divinsa.htm",
+		"/Users/ryankite/vue/notemaster/src/App.vue",
+		"/Users/ryankite/.bashrc",
+		"/Users/ryankite/admin-dash/src/components/HelloWorld.vue",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/test.js",
+		"/Users/ryankite/Desktop/bigger-email-list-for-cluster.txt",
+		"/Users/ryankite/Desktop/master-dis-list.txt",
+		"/Users/ryankite/Desktop/yakima-email-list.txt",
+		"/Users/ryankite/Downloads/mBackup.build",
+		"/Users/ryankite/Documents/yakima bbq/divi-100-pack-5/Article #1.json",
+		"/Users/ryankite/Downloads/wp_acrowood_wp_25tawtbyb8_.sql",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wsbutestserver.php",
+		"/Users/ryankite/Documents/olddivinsacom/about_Divinsa.htm",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config.php",
+		"/Users/ryankite/Documents/WholesaleBackup/wsbu_wp registration form /registration/registration-form-v4.3.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/registration-form-v4.2.php",
+		"/Users/ryankite/Desktop/registration-form-v4.2.php",
+		"/Users/ryankite/Documents/TurnKeyIco/turnkey/HTML/css/main.css",
+		"/Users/ryankite/Documents/TurnKeyIco/turnkey/HTML/header_side7.html",
+		"/Users/ryankite/Documents/TurnKeyIco/themeforest-20947693-hashcoin-plus-bitcoin-crypto-currency-html-template-with-page-builder/HTML/index-single.html",
+		"/Users/ryankite/Documents/TurnKeyIco/themeforest-20947693-hashcoin-plus-bitcoin-crypto-currency-html-template-with-page-builder/HTML/css/main.css",
+		"/Users/ryankite/Documents/TurnKeyIco/themeforest-20947693-hashcoin-plus-bitcoin-crypto-currency-html-template-with-page-builder/HTML/js/main.js",
+		"/Users/ryankite/Documents/WholesaleBackup/wsbu_wp registration form /registration/registration-form-v4.php",
+		"/Users/ryankite/Documents/WholesaleBackup/wsbu_wp registration form /registration/registration-form-stage-v4.php",
+		"/Users/ryankite/vue/starbase/src/components/starbase.vue",
+		"/Users/ryankite/vue/starbase/src/components/HelloWorld.vue",
+		"/Users/ryankite/vue/starbase/src/components/character.vue",
+		"/Users/ryankite/vue/starbase/index.html",
+		"/Users/ryankite/vue/starbase/src/router/index.js",
+		"/Users/ryankite/vue/starbase/src/main.js",
+		"/Users/ryankite/vue/starbase/src/App.vue",
+		"/Users/ryankite/vue/notemaster/index.html",
+		"/Users/ryankite/vue/notemaster/src/main.js",
+		"/Users/ryankite/vue/notemaster/src/notemaster/index.vue",
+		"/Users/ryankite/Downloads/Hello.vue",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/registration-form-v3-stage.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/,",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/5,",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/registration-form-stage.php",
+		"/Users/ryankite/Downloads/vuex-demo/index.html",
+		"/Users/ryankite/Downloads/vuex-demo/src/components/Home.vue",
+		"/Users/ryankite/Downloads/vuex-demo/src/App.vue",
+		"/Users/ryankite/Downloads/vuex-demo/src/components/portfolio/Stock.vue",
+		"/Users/ryankite/Downloads/vuex-demo/src/components/portfolio/Portfolio.vue",
+		"/Users/ryankite/Downloads/vuex-demo/src/components/Header.vue",
+		"/Users/ryankite/Downloads/vuex-demo/package.json",
+		"/Users/ryankite/Downloads/vuex-demo/.babelrc",
+		"/Users/ryankite/Downloads/vuex-demo/src/routes.js",
+		"/Users/ryankite/Downloads/ip.php",
+		"/Users/ryankite/Desktop/htaccess-backup",
+		"/Users/ryankite/Desktop/syslog.txt",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 7.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 6.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 5.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 3.php",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 2.php",
+		"/Users/ryankite/Desktop/wp-config.php-backup",
+		"/Users/ryankite/Desktop/ransomware.txt",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wp-config 4.php",
+		"/Users/ryankite/Projects/dash/project/dash/local_settings.py",
+		"/Users/ryankite/Downloads/Start/src/main.js",
+		"/Users/ryankite/Downloads/Start/src/App.vue",
+		"/Users/ryankite/Downloads/Start/package.json",
+		"/Users/ryankite/Downloads/knockout-routing-master/src/index.html",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/wsburegserver.php",
+		"/Users/ryankite/Documents/WholesaleBackup/MSP PAGE.txt",
+		"/Users/ryankite/Desktop/wsbu_wp registration form /error_log",
+		"/private/var/folders/fj/nnwmbrs10gj3jc_b09qyb85w0000gn/T/fz3temp-2/registration-form-stage-old.php",
+		"/Users/ryankite/Desktop/wsbu_wp registration form /Backup Dec19/registration/registration-form-stage-old.php",
+		"/Users/ryankite/Desktop/wsbu_wp registration form /registration/registration-form-stage.php",
+		"/Users/ryankite/Desktop/wsbu_wp registration form /registration/style.css",
+		"/Users/ryankite/Desktop/wsbu_wp registration form /registration/(rootUserHiddenFile)portal.php",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/backup-settings.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/selections.html",
+		"/Users/ryankite/Documents/acrowood-form-changes.txt",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/continuous-backups.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/scheduled-backups.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/schedule.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/css/custom.css",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/index.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/email.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/details.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/css/style.css",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/software-agreement.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/system-information.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/page.js-master/examples/album/index.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/animallist.js",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/handlebar.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/restore.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/expert.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/disk-image.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/css/plugins/steps/jquery.steps.css",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/Static_Full_Version/toastr_notifications.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/Static_Full_Version/notifications.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/divinsa.sel",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/Static_Full_Version/code_editor.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/Static_Full_Version/form_advanced.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/Static_Full_Version/form_basic.html",
+		"/Users/ryankite/Documents/wsbu-client-ui/products-WB0R5L90S/wsbu-client-ui-seed/views/temp.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Metrics"
+			]
+		],
+		"width": 566.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 410.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
