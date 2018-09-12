@@ -23,7 +23,15 @@
           <input class="phone-input" type="text" v-model="phonePayload" autofocus>
           <button class="input-btn" @click.stop.prevent="fetchLookUp">
             <i class="fas fa-search fa-lg"></i>
-          </button>  
+          </button>
+          <transition
+              name="custom-classes-transition19"
+              enter-active-class="animated slideInLeft"
+              leave-active-class="animated slideOutLeft">
+            <button v-show="phonePayload !== ''" class="clear-btn" @click.stop.prevent="clearLookUp">
+              <i class="fas fa-times fa-lg"></i>
+            </button>
+          </transition>
         </fieldset>
       </form>
     </div>
@@ -209,6 +217,7 @@ export default {
   },
   data () {
     return {
+      isCleared: true,
       isToDoLoaded: false,
       isResult: false,
       isLoading: false,
@@ -272,8 +281,14 @@ export default {
     }
   },
   methods: {
+    clearLookUp () {
+      var app = this
+      app.phonePayload = ''
+      app.isCleared = !app.isCleared
+    },
     fetchLookUp () {
       var app = this
+      app.isCleared = !app.isCleared
       app.isResult = false
       app.isLoading = true
       axios.get('https://proapi.whitepages.com/3.0/phone.json', {

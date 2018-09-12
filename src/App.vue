@@ -1,5 +1,9 @@
 <template>
+
   <div id="app" class="container-fluid">
+    <div class="pull-left">
+      <img src="../public/lookr-uppr-icon.png" alt="lookr-uppr" width="50px" style="top:-20px; position: relative;">
+    </div>
     <transition
       name="custom-classes-transition1"
       enter-active-class="animated bounceInDown"
