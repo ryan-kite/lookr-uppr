@@ -2,6 +2,7 @@
 
 > A sweet no fluff reverse phone lookup app.
 > See working demo. https://ryan-kite.com/lookr-uppr/
+> Just enter a phone number and get instant information about the phone number, owner, and location.
 
 ## Project setup
 ```
