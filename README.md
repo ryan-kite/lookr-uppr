@@ -31,8 +31,8 @@ npm run lint
 4. Boom! you should now have access the free API Key
 
 ### How to import your API Key to the app
-1. Create a file called *config.js* in the project root (next to main.js)
-2. Copy, paste and save this export statement to __config.js__ with your new API Key: 
+1. Open the pre-created `src/config.js` file
+2. Copy, paste and save this export statement to `src/config.js` with your new API Key: 
 ```javascript
 export default {
   key: 'replace-this-with-your-own-api-key'
@@ -41,6 +41,6 @@ export default {
 3. You're done!
 
 ## Modernization planning docs
-- Design brief handoff: `/tmp/workspace/ryan-kite/lookr-uppr/docs/design/claude-design-brief.md`
-- GitHub project setup blueprint: `/tmp/workspace/ryan-kite/lookr-uppr/docs/project/github-project-setup.md`
-- Ready-to-paste P0/P1 ticket pack: `/tmp/workspace/ryan-kite/lookr-uppr/docs/project/ticket-pack-p0-p1.md`
+- Design brief handoff: `docs/design/claude-design-brief.md`
+- GitHub project setup blueprint: `docs/project/github-project-setup.md`
+- Ready-to-paste P0/P1 ticket pack: `docs/project/ticket-pack-p0-p1.md`

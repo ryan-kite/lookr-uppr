@@ -5,8 +5,21 @@
   --risk-spam: #cf3f3f;
   --risk-unknown: #7a7f86;
 
+  --brand-gradient-stop-1: #65d2c3;
+  --brand-gradient-stop-2: #00b7d3;
+  --brand-gradient-stop-3: #1896d6;
+  --brand-gradient-stop-4: #6b6ebd;
+  --brand-gradient-stop-5: #913f86;
+
   /* Legacy-aligned surface + brand */
-  --brand-bg-gradient: linear-gradient(to left top, #65d2c3, #00b7d3, #1896d6, #6b6ebd, #913f86);
+  --brand-bg-gradient: linear-gradient(
+    to left top,
+    var(--brand-gradient-stop-1),
+    var(--brand-gradient-stop-2),
+    var(--brand-gradient-stop-3),
+    var(--brand-gradient-stop-4),
+    var(--brand-gradient-stop-5)
+  );
   --surface-primary: #344b47;
   --text-primary: #eeeeee;
   --text-secondary: #e8f3f1;
