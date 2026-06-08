@@ -10,10 +10,10 @@ body, html {
   height: 100%;
   background-repeat: no-repeat;
   background: cover;
-  background: linear-gradient(to left top, #65d2c3, #00b7d3, #1896d6, #6b6ebd, #913f86);
+  background: var(--brand-bg-gradient);
 }
 #app {
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
@@ -21,11 +21,11 @@ body, html {
   color: #666;
 }
 .blurb {
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-body);
   font-size: 1em;
   text-align: center;
   margin-top: 5px;
-  color: #E8F3F1;
+  color: var(--text-secondary);
   font-weight: 600;
   text-transform: uppercase;
   text-shadow: #344B47 2px 1px 2px;
@@ -44,7 +44,7 @@ body, html {
   letter-spacing: -3px;
   text-align: center;
   font-size: 3em;
-  font-family: 'Fugaz One', cursive;
+  font-family: var(--font-display);
   margin-bottom: 5px;
   color: #E5FFFA;
   text-shadow: #344B47 0px 2px 5px;
@@ -54,7 +54,7 @@ body, html {
   letter-spacing: -.5px;
   text-align: center;
   font-size: 1em;
-  font-family: 'Fugaz One', cursive;
+  font-family: var(--font-display);
   color: #E5FFFA;
   text-shadow: #344B47 0px 2px 5px;
   margin-top: 5px;
@@ -147,14 +147,14 @@ a.links:hover {
   margin: 9px auto;
   padding: 0;
   vertical-align: middle;
-  background: #344B47;
+  background: var(--surface-primary);
   font-size: .9em;
 }
 .card-title {
   height: 50px;
   width: 100%;
   background: #transparent;
-  color: #EEE;
+  color: var(--text-primary);
   padding: 12px;
   margin-bottom: 0px;
   border-bottom: 1px solid #333;
@@ -165,7 +165,7 @@ font-weight: 600;
 }
 .card-content {
   background: transparent;
-  color: #EEE;
+  color: var(--text-primary);
   padding: 0 12px;
   display: table;
 }
@@ -193,7 +193,7 @@ font-weight: 600;
 .card-footer {
   background: transparent;
   height: 50px;
-  color: #EEE;
+  color: var(--text-primary);
   text-align: right;
 }
 .indicator {

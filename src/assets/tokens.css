@@ -1,0 +1,32 @@
+:root {
+  /* Risk semantics */
+  --risk-safe: #1f9d69;
+  --risk-caution: #e0a100;
+  --risk-spam: #cf3f3f;
+  --risk-unknown: #7a7f86;
+
+  /* Legacy-aligned surface + brand */
+  --brand-bg-gradient: linear-gradient(to left top, #65d2c3, #00b7d3, #1896d6, #6b6ebd, #913f86);
+  --surface-primary: #344b47;
+  --text-primary: #eeeeee;
+  --text-secondary: #e8f3f1;
+
+  /* Type */
+  --font-display: 'Fugaz One', cursive;
+  --font-body: 'Montserrat', sans-serif;
+
+  /* Spacing + radius */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-pill: 999px;
+
+  /* Motion */
+  --motion-fast: 150ms;
+  --motion-medium: 300ms;
+  --motion-slow: 450ms;
+}

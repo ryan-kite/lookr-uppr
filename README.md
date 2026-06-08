@@ -39,3 +39,8 @@ export default {
 }
 ```
 3. You're done!
+
+## Modernization planning docs
+- Design brief handoff: `/tmp/workspace/ryan-kite/lookr-uppr/docs/design/claude-design-brief.md`
+- GitHub project setup blueprint: `/tmp/workspace/ryan-kite/lookr-uppr/docs/project/github-project-setup.md`
+- Ready-to-paste P0/P1 ticket pack: `/tmp/workspace/ryan-kite/lookr-uppr/docs/project/ticket-pack-p0-p1.md`
